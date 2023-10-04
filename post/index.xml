@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Artikkelit on Riskiryhmä</title>
+    <link>riski.com/post/</link>
+    <description>Recent content in Artikkelit on Riskiryhmä</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>fi-FI</language>
+    <lastBuildDate>Tue, 03 Oct 2023 09:50:01 +0300</lastBuildDate><atom:link href="riski.com/post/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Liity jäseneksi</title>
+      <link>riski.com/post/liity-j%C3%A4seneksi/</link>
+      <pubDate>Tue, 03 Oct 2023 09:13:09 +0300</pubDate>
+      
+      <guid>riski.com/post/liity-j%C3%A4seneksi/</guid>
+      <description>Tee kulttuuriteko ja liity jäseneksi. Kulttuuriteko kannattaa aina.</description>
+    </item>
+    
+  </channel>
+</rss>

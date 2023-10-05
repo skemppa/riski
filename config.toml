@@ -7,9 +7,25 @@ toc = true
 
 DefaultContentLanguage = "fi"
 SectionPagesMenu = "main"
+
+#  [menu]
+#    [[menu.main]]
+#      name = 'Home'
+#      pageRef = '/'
+#      weight = 10
+#    [[menu.main]]
+#      name = 'Products'
+#      pageRef = '/content/fi/about/index.md'
+#      weight = 20
+#    [[menu.main]]
+#      name = 'Services'
+#      pageRef = '/services'
+#      weight = 30
+
 Paginate = 3 # this is set low for demonstrating with dummy content. Set to a higher number
 googleAnalytics = ""
 enableRobotsTXT = true
+
 
 [languages]
   [languages.fi]
@@ -17,15 +33,15 @@ enableRobotsTXT = true
     weight = 1
     contentDir = "content/fi"
     # languageDirection = 'rtl' for Right-To-Left languages
-
+#
  # [languages.fr]
  #   title = "Ananke Fr"
- #   weight = 2
- #   contentDir = "content/fr"
- # [languages.en]
- #   title = "Ananke En"
  #   weight = 3
- #   contentDir = "content/en"
+ #   contentDir = "content/fr"
+#  [languages.en]
+#    title = "Ananke En"
+#    weight = 2
+#    contentDir = "content/en"
 
 [sitemap]
   changefreq = "monthly"

@@ -1,5 +1,5 @@
 title = "Riskiryhmä"
-baseURL = "riski.com"
+baseURL = "https://skemppa.github.io/riski/"
 languageCode = "fi-FI"
 theme = ["ananke"]
 resourceDir = "../resources"
